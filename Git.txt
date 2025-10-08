@@ -1,0 +1,29 @@
+git---------------
+   >Code Repository(it used to list projects data like pendrive)
+   >version control software 
+
+
+version read syntax(Major.minor.Class)
+
+->client-our system
+->server-Git Hub-15 gb
+
+
+
+git code:git config --list
+
+     
+     git config --global user.name "zillaramshad"
+     git config --global user.email "zillaramshad@gmail.com"
+
+
+
+git folder sharing steps
+step 1:
+create reprository
+cmd-code paste(it store local machine)
+step 2:transferrinhg a file to from local machine to GitHub
+>git status
+>git add  --all(it used to adding untraked files )
+>git commit -m "message"(it used to tracking  added files purpose)
+>git push -u origin main(it used to push this to server)
