@@ -27,3 +27,12 @@ step 2:transferrinhg a file to from local machine to GitHub
 >git add  --all(it used to adding untraked files )
 >git commit -m "message"(it used to tracking  added files purpose)
 >git push -u origin main(it used to push this to server)
+
+
+
+git copy------------------
+share rep
+create folder and open cmd
+git clone (paste url)
+
+git pull(used to pull code into our system)
